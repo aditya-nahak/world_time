@@ -1,16 +1,11 @@
-# worldtime
+## worldtime
 
-A new Flutter application.
+# A new Flutter application 
+# Designed by using materialUI and FLutter
 
-## Getting Started
+# Screenshots:
 
-This project is a starting point for a Flutter application.
+![Screenshot_1602700845](https://user-images.githubusercontent.com/70506653/96033789-31da7280-0e7e-11eb-8506-325cddb3a614.png)
+![Screenshot_1602700857](https://user-images.githubusercontent.com/70506653/96033798-343ccc80-0e7e-11eb-96b1-7a4a8b815c08.png)
+![Screenshot_1602700836](https://user-images.githubusercontent.com/70506653/96033816-3acb4400-0e7e-11eb-803f-0b69e7b088cb.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
